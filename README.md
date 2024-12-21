@@ -1,3 +1,8 @@
+```
+Do not use this repo directly. It is not for public use.
+
+```
+
 # Private Wrapper of public library "RMC Mini MVCS"
 
 The wrapper can be opened in Unity directly for active development of the public library.
